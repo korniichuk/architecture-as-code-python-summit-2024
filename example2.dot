@@ -1,0 +1,36 @@
+digraph "Example 2" {
+	graph [bb="0,0,101,162",
+		bgcolor=white,
+		fontcolor="#2D3436",
+		fontname="Sans-Serif",
+		fontsize=15,
+		label="Example 2",
+		lheight=0.24,
+		lp="50.5,12.5",
+		lwidth=1.11,
+		nodesep=0.60,
+		pad=2.0,
+		rankdir=LR,
+		ranksep=0.75,
+		splines=ortho
+	];
+	node [fixedsize=true,
+		fontcolor="#2D3436",
+		fontname="Sans-Serif",
+		fontsize=13,
+		height=1.4,
+		imagescale=true,
+		label="\N",
+		labelloc=b,
+		shape=box,
+		style=rounded,
+		width=1.4
+	];
+	edge [color="#7B8894"];
+	"8aac7bccfb4f4dda873c34f3b9753c45"	[height=1.9028,
+		image="/home/rkorniic/.local/lib/python3.10/site-packages/resources/aws/compute/ec2.png",
+		label=web,
+		pos="50.5,93.5",
+		shape=none,
+		width=1.4028];
+}
